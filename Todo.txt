@@ -1,0 +1,1 @@
+﻿- Add parameters to open in native application, exe will be launched, shortcuts will be loaded in explorer
